@@ -1,0 +1,24 @@
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# eclipse
+
+*.launch
+
+# macOS
+
+.DS_Store
+.AppleDouble
+.LSOverride
