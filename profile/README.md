@@ -33,4 +33,4 @@ IrisShaders is the organisation behind [Iris](https://github.com/IrisShaders/Iri
 |   [Dr. Rubisco](https://github.com/thedocruby)    |                                Lead [Website](https://github.com/IrisShaders/irisshaders.github.io) Developer                                 |
 |        [douira](https://github.com/douira)        |                                 [glsl-transformer](https://github.com/IrisShaders/glsl-transformer) Developer                                 |
 | [NoComment1105](https://github.com/NoComment1105) |                                      Lead developer of [LilyBot](https://github.com/IrisShaders/LilyBot)                                      |
-|     [tempest15](https://github.com/tempest15)     |                                      Assistant Lead of [LilyBot](https://github.com/IrisShaders/LilyBot)                                      |
+|     [tempest15](https://github.com/tempest15)     |                                      Lead developer of [LilyBot](https://github.com/IrisShaders/LilyBot)                                      |
