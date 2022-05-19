@@ -10,9 +10,9 @@ IrisShaders is the organisation behind [Iris](https://github.com/IrisShaders/Iri
 
 ## Contact
 
-![Discord](https://img.shields.io/discord/774352792659820594?label=Discord&logo=discord)
-![Twitter Follow](https://img.shields.io/twitter/follow/IrisShaders)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9phcgE01H5apG7PqDI9CkA)
+[![Discord](https://img.shields.io/discord/774352792659820594?label=Discord&logo=discord)](https://discord.gg/jQJnav2jPu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/IrisShaders)](https://twitter.com/IrisShaders)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9phcgE01H5apG7PqDI9CkA)](https://youtube.com/channel/UC9phcgE01H5apG7PqDI9CkA)
 
 ## Projects
 
