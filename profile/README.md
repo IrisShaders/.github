@@ -32,4 +32,4 @@ IrisShaders is the organisation behind [Iris](https://github.com/IrisShaders/Iri
 |   [Dr. Rubisco](https://github.com/thedocruby)    |                                Lead [Website](https://github.com/IrisShaders/irisshaders.github.io) developer                                 |
 |        [douira](https://github.com/douira)        |                                 [glsl-transformer](https://github.com/IrisShaders/glsl-transformer) developer                                 |
 
-Looking for LilyBot? She's moved! You cna now find her at https://github.com/HyacinthBots/LilyBot
+Looking for LilyBot? She's moved! You can now find her at https://github.com/HyacinthBots/LilyBot
