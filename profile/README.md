@@ -1,4 +1,4 @@
-![Iris: An open-source shaders mod compatible with OptiFine shaderpacks](profile/docs/banner.png)
+![Iris: An open-source shaders mod compatible with OptiFine shaderpacks](docs/banner.png)
 
 # IrisShaders
 
